@@ -3,9 +3,12 @@
 
 a simple contact app made with flutter
 
+# Download Apk File
+
+
 ## Demo
 
-![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-58436f859f7b.gif)
+![Alt Text](https://github.com/vivek-nagar/contacts/blob/main/ezgif-4-58436f859f7b.gif)
 
 ## Features
 
