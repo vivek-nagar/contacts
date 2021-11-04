@@ -5,7 +5,7 @@ a simple contact app made with flutter
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/vivek-nagar/contacts/blob/main/WhatsApp%20Video%202021-11-04%20at%2011.55.17%20AM.mp4
 
 ## Features
 
